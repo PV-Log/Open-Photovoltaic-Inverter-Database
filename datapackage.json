@@ -1,0 +1,51 @@
+{
+  "name": "Open-Inverter-Database",
+  "title": "Open Inverter Database for Photovoltaic Inverters",
+  "description": "",
+  "licenses": [
+    {
+      "id": "",
+      "name": "",
+      "version": "",
+      "url": ""
+    }
+  ],
+  "resources": [
+    {
+      "name": "inverters",
+      "url": "https://github.com/PV-Log/Open-Inverter-Database/blob/master/data/inverters.csv",
+      "path": "data/inverters.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "id",
+            "description": "Unique ID",
+            "type": "number"
+          },
+          {
+            "id": "supplier",
+            "description": "Supplier or Manufacturer of the Inverter",
+            "type": "string"
+          },
+          {
+            "id": "type",
+            "description": "Type or Model of the Inveter",
+            "type": "string"
+          },
+          {
+            "id": "nominal_power_ac",
+            "description": "Nominal Power AC in Watts",
+            "type": "number"
+          },
+          {
+            "id": "trafo_info",
+            "description": "Has Trafo (1), has no Trafo (0)",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ]
+}
