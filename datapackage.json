@@ -1,19 +1,19 @@
 {
   "name": "Open-Inverter-Database",
   "title": "Open Inverter Database for Photovoltaic Inverters",
-  "description": "",
+  "description": "This is an Open Source Database for Photovoltaic Inverters. Everybody is welcome to contribute and use it.",
   "licenses": [
     {
-      "id": "",
-      "name": "",
+      "id": "MIT",
+      "name": "MIT License",
       "version": "",
-      "url": ""
+      "url": "http://opensource.org/licenses/MIT"
     }
   ],
   "resources": [
     {
       "name": "inverters",
-      "url": "https://github.com/PV-Log/Open-Inverter-Database/blob/master/data/inverters.csv",
+      "url": "https://github.com/PV-Log/Open-Inverter-Database/raw/master/data/inverters.csv",
       "path": "data/inverters.csv",
       "format": "csv",
       "mediatype": "text/csv",
