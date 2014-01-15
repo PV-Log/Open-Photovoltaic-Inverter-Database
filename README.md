@@ -12,9 +12,11 @@ How-To-Use
 ----------
 The data is stored in CSV and SDF (Simple Data Format: http://data.okfn.org/standards/simple-data-format)
 
+[Here you find a preview of the data and an explanation of the columns]( http://data.okfn.org/tools/view?url=https%3A%2F%2Fgithub.com%2FPV-Log%2FOpen-Inverter-Database%2Fraw%2Fmaster%2Fdatapackage.json)
+
 Just download the CSV-File: /data/inverters.csv
 
-Information about the columns are found in: /datapackage.json
+Information about the columns can be also found in: /datapackage.json
 
 
 Contribute
@@ -25,7 +27,7 @@ We tried to follow the guidelines of the Open Knowledge Foundation (http://okfn.
 2. Add or correct data
 3. Send a pull request to this repository, so that your changes are included
 
-Thanks for contributing! Any suggestions for improvement are welcome!
+Thanks for contributing! Any suggestions for improvements are welcome!
 
 
 Disclaimer
@@ -44,4 +46,4 @@ All code and data herein is OpenSource (http://opensource.org/licenses/MIT). Fee
 
 About PV-Log
 ---------
-PV-Log is a free solar network for comparing energy yields of photovoltaic systems. For more information, visit: www.pv-log.com/en
+PV-Log is a free solar network for comparing energy yields of photovoltaic systems. For more information, visit: http://www.pv-log.com/en
