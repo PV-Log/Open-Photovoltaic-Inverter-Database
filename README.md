@@ -1,4 +1,4 @@
-Open-Photocoltaic-Inverter-Database
+Open-Photovoltaic-Inverter-Database
 ======================
 
 
