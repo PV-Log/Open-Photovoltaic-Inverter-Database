@@ -1,4 +1,4 @@
-id,supplier,type,nominal_power_ac,trafo_info
-1,SMA Solar Technology AG,Sunny Mini Central SMC 8000TL,8000,0
-2,SMA Solar Technology AG,Sunny Mini Central 5000,5000,1
-3,SMA Solar Technology AG,Sunny Mini Central SMC 5000A,5000,
+id,supplier,type,nominal_power_ac,max_power_ac,trafo_info,max_power_dc,max_voltage_dc,max_current_dc,grid_connector,communication_interface,mpp_tracker,width,height,depth,weight
+1,SMA Solar Technology AG,Sunny Mini Central SMC 8000TL,8000,8000,0,0,0,0,0,0,0,0,0,0
+2,SMA Solar Technology AG,Sunny Mini Central 5000,5000,5500,1,0,0,0,0,0,0,0,0,0
+3,SMA Solar Technology AG,Sunny Mini Central SMC 5000A,5000,5300,0,0,0,0,0,0,0,0,0
