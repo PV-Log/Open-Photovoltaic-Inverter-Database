@@ -1,4 +1,4 @@
-Open-Inverter-Database
+Open-Photocoltaic-Inverter-Database
 ======================
 
 
@@ -12,7 +12,7 @@ How-To-Use
 ----------
 The data is stored in CSV and SDF (Simple Data Format: http://data.okfn.org/standards/simple-data-format)
 
-[Here you find a preview of the data and an explanation of the columns]( http://data.okfn.org/tools/view?url=https%3A%2F%2Fgithub.com%2FPV-Log%2FOpen-Inverter-Database%2Fraw%2Fmaster%2Fdatapackage.json)
+[Here you find a preview of the data and an explanation of the columns]( http://data.okfn.org/tools/view?url=https%3A%2F%2Fgithub.com%2FPV-Log%2FOpen-Photovoltaic-Inverter-Database%2Fraw%2Fmaster%2Fdatapackage.json)
 
 Just download the CSV-File: /data/inverters.csv
 
